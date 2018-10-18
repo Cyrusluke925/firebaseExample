@@ -32,3 +32,9 @@ It Provides:
   -Firebase Hosting - allows you deploy your app
   - It is not totally free. (https://firebase.google.com/pricing/)
   
+  
+  
+  INSTALLATION:
+  
+  [![installation.png](https://i.postimg.cc/BQK8WSyL/installation.png)](https://postimg.cc/xc9jM29n)
+  
