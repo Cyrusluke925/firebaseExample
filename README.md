@@ -1,7 +1,7 @@
 # firebaseExample
 
 
-FIREBASE:
+
 
 
 [![firebase.png](https://i.postimg.cc/hPCvkJ40/firebase.png)](https://postimg.cc/D8X7swXW)
